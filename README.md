@@ -1,0 +1,2 @@
+# ToDo-List-App
+A To-Do list app allows users easily add, delete, and mark tasks as completed. It helps organize tasks, track progress, and stay productive with a simple, user-friendly interface that makes managing daily activities quick and efficient.
